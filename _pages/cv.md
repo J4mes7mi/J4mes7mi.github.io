@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Chinese University of Hong Kong, Shenzhen
+* B.S. in Electronic Information Engineering, Major in Computer Engineering
+Shenzhen, China | Sept. 2020 – Jun. 2024
+
+Washington University in St. Louis
+* M.S. in Business Analytics, Financial Technology Track
+St. Louis, United States | Aug. 2024 – Present
+
+*GPA: 3.71/4
+*Relevant Coursework: Database System, Machine Learning, Introduction to Python, Capital Markets and Financial Management
 
 Work experience
 ======
