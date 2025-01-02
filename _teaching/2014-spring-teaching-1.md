@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant in MachineLearning"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The Washington University in St.Louis , Olin"
+date: 2025-01-01
+location: "St.Louis, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience.
 
-Heading 1
+Tutorial
 ======
+To be decided
 
-Heading 2
+Office Hour
 ======
+To be decided
 
-Heading 3
+Assignment
 ======
+Checking Assignments
