@@ -13,59 +13,33 @@ Education
 ======
 Chinese University of Hong Kong, Shenzhen
 * B.S. in Electronic Information Engineering, Major in Computer Engineering
-Shenzhen, China | Sept. 2020 – Jun. 2024
+
 
 Washington University in St. Louis
 * M.S. in Business Analytics, Financial Technology Track
-St. Louis, United States | Aug. 2024 – Present
+* GPA: 3.71/4
+* Relevant Coursework: Database System, Machine Learning, Introduction to Python, Capital Markets and Financial Management
 
-*GPA: 3.71/4
-*Relevant Coursework: Database System, Machine Learning, Introduction to Python, Capital Markets and Financial Management
-
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb.2024 - Present: Research Assistant
+  * The Chinese University of Hongkong, Shenzhen, AIRS Lab
+  * Duties includes: Game theory-based optimization for EV charging station upgrades, co-authoring a research paper accepted by ITEC-AP
+  * Supervisor: Xiaoying Tang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2024 – Jul. 2024: Engineer and Research Scientist
+  * Shenzhen Research Institute of Big Data, Deep Bit Lab
+  * Duties included: Large-scale 3D scene reconstruction using Gaussian Splatting, benchmarking reconstruction methods, and co-authoring a research paper
+  * Supervisor: Professor Zhen Li
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul. – Sept. 2023: Business Analyst Intern
+  * JD.com
+  * Duties included: Web scraping and data analysis, developing marketing strategies, drafting proposals, and producing sales reports
   
-Skills
+Additional Information
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language Skills: Mandarin (Native), English (Fluent), Japanese (Intermediate) Programming Skills: Python
+* PySpark, SQL, R, Verilog Operating System and Platforms: Windows Fluent User.
+* Microsoft 365, Adobe Premier, Vegas Fluent User
+* Hobbies:Basketball, Gaming, Traveling, Hiking, Cooking;The Chinese Univesity of Hongkong, Shenzhen Basketball club.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
