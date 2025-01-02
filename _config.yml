@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : #"Nanjun Zheng"
+title                    : "Nanjun Zheng"
 title_separator          : "-"
-name                     : &name "Nanjun Zheng"
+name                     : #&name ""
 description              : &description "Ready to work.  the Washington University on St.Louis"
 url                      : https://J4mes7mi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
