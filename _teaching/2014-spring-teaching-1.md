@@ -8,7 +8,6 @@ date: 2025-01-01
 location: "St.Louis, US"
 ---
 
-This is a description of a teaching experience.
 
 Tutorial
 ======
